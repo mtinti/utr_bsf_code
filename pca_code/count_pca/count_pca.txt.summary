@@ -1,0 +1,13 @@
+Status	BSF_01/res4/BSF_01/BSF_01_sorted.bam	BSF_03/res4/BSF_03/BSF_03_sorted.bam	BSF_04/res4/BSF_04/BSF_04_sorted.bam	BSF_05/res4/BSF_05/BSF_05_sorted.bam	BSF_06/res4/BSF_06/BSF_06_sorted.bam	BSF_07/res4/BSF_07/BSF_07_sorted.bam	BSF_08/res4/BSF_08/BSF_08_sorted.bam
+Assigned	6782368	6653965	5131171	5045573	6864091	5174321	5828809
+Unassigned_Unmapped	4278025	6945366	7358860	10355893	5468716	4495140	5243722
+Unassigned_MappingQuality	0	0	0	0	0	0	0
+Unassigned_Chimera	1115070	985976	987654	1081611	1025698	928825	1094109
+Unassigned_FragmentLength	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0
+Unassigned_NoFeatures	20625357	14380819	10844457	11589201	27503629	22015578	25308036
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0
