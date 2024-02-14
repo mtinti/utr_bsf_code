@@ -21,8 +21,10 @@ This section contains the scripts to visualize a PCA on the read counts for the 
 The scripts are implemented in the make_pca.ipynb notebook
 
 -  <a href="peak_finding_code/">peak_finding_code</a> <br>
-This section contains the scripts to identify the regions in the genome responsible for positive or negative selection.<br>
+This section contains the scripts to identify the regions in the genome responsible for positive or negative selection.<br><br>
 The notebook <b>b_sample_analysis.ipynb</b> shows the step used for the analysis of the <br>
 positive fragments, from peak finding to creating the paper table (Paper_Table_Blasticidine.csv). <br>
+This notebook comments on all the steps of the analysis, but for some reason, the github rendering is broken <br>
+I suggest cloning the repo and visualising it on your machine. <br><br>
 The notebook <b>g_sample_analysis.ipynb</b> shows the step used for the analysis of the <br>
 negative fragments, from peak finding to creating the paper table (Paper_Table_Ganciclovir.csv). <br>
