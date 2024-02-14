@@ -14,7 +14,7 @@ and conclude that thousands of UTRs post-transcriptionally reprogram gene expres
 We deposited and divided in subsection the code used for the data analysis
 
 -  <a href="alignment_code/">alignment_code</a> <br>
-this section contains the scripts to align the fastq files to the reference genome
+This section contains the scripts to align the fastq files to the reference genome
 
 -  <a href="pca_code/">alignment_code</a> <br>
 This section contains the scripts to visualize a PCA on the read counts for the analysed samples <br>
@@ -24,7 +24,18 @@ The scripts are implemented in the make_pca.ipynb notebook
 This section contains the scripts to identify the regions in the genome responsible for positive or negative selection.<br><br>
 The notebook <b>b_sample_analysis.ipynb</b> shows the step used for the analysis of the <br>
 positive fragments, from peak finding to creating the paper table (Paper_Table_Blasticidine.csv). <br>
-This notebook comments on all the steps of the analysis, but for some reason, the github rendering is broken <br>
+This notebook comments on all the steps of the analysis, but for some reason, the GitHub rendering is broken <br>
 I suggest cloning the repo and visualising it on your machine. <br><br>
 The notebook <b>g_sample_analysis.ipynb</b> shows the step used for the analysis of the <br>
 negative fragments, from peak finding to creating the paper table (Paper_Table_Ganciclovir.csv). <br>
+
+- <a href="circus_code/">circus_code</a> <br>
+This section contains the configuration files and data files to use with Circos
+
+- <a href="make_images_code/">make_images_code</a> <br>
+This section contains the configuration files to plot coverage tracks with pyGenomeTracks. <br>
+The notebook <b>pyGtrackViz.ipynb</b> describes in detail the steps for the visualization. <br>
+Again, the GitHub rendering is broken <br>
+I suggest cloning the repo and visualising it on your machine. <br>
+
+
