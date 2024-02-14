@@ -20,7 +20,7 @@ This section contains the scripts to align the fastq files to the reference geno
 This section contains the script to identify the barcoded reads in the BAM files. <br>
 It is used in the scripts in alignment_code.
 
--  <a href="pca_code/">alignment_code</a> <br>
+-  <a href="pca_code/">pca_code</a> <br>
 This section contains the scripts to visualize a PCA on the read counts for the analysed samples <br>
 The scripts are implemented in the make_pca.ipynb notebook
 
