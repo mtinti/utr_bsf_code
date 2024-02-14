@@ -16,6 +16,10 @@ We deposited and divided in subsection the code used for the data analysis
 -  <a href="alignment_code/">alignment_code</a> <br>
 This section contains the scripts to align the fastq files to the reference genome
 
+-  <a href="utilities/">utilities</a> <br>
+This section contains the script to identify the barcoded reads in the BAM files. <br>
+It is used in the scripts in alignment_code.
+
 -  <a href="pca_code/">alignment_code</a> <br>
 This section contains the scripts to visualize a PCA on the read counts for the analysed samples <br>
 The scripts are implemented in the make_pca.ipynb notebook
@@ -35,7 +39,13 @@ This section contains the configuration files and data files to use with Circos
 - <a href="make_images_code/">make_images_code</a> <br>
 This section contains the configuration files to plot coverage tracks with pyGenomeTracks. <br>
 The notebook <b>pyGtrackViz.ipynb</b> describes in detail the steps for the visualization. <br>
-Again, the GitHub rendering is broken <br>
+Again, the GitHub rendering is broken. <br>
 I suggest cloning the repo and visualising it on your machine. <br>
 
+- <a href="machine_learning_code/">machine_learning_code</a> <br>
+This section contains the scripts used for machine learning. <br>
+The notebook <b>UTR_5_3.ipynb</b> describes in detail the steps taken from the <br>
+creation of the features to the transcription efficiency model. <br>
+This notebook uses features from the 5' and 3' UTRs. This notebook is better annotated than <b>UTR_3.ipynb</b><br>
+that uses features from the 3' UTRs only. 
 
