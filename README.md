@@ -13,5 +13,10 @@ and conclude that thousands of UTRs post-transcriptionally reprogram gene expres
 ## Code Repository
 We deposited and divided in subsection the code used for the data analysis
 
--  <a href="alignment_code/">alignment_code</a>
+-  <a href="alignment_code/">alignment_code</a> <br>
+this section contains the scripts to align the fastq files to the reference genome
+
+-  <a href="pca_code/">alignment_code</a> <br>
+This section contains the scripts to visualize a PCA on the read counts for the analysed samples <br>
+The scripts are implemented in the make_pca.ipynb notebook
 
