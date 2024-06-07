@@ -50,7 +50,6 @@ The notebook <b>UTR_5_3.ipynb</b> describes in detail the steps taken from the <
 creation of the features to the transcription efficiency model. <br>
 This notebook uses features from the 5' and 3' UTRs. This notebook is better annotated than <b>UTR_3.ipynb</b><br>
 that uses features from the 3' UTRs only. You need to create a conda env to run the notebooks with:
-
 conda create -n ml_utr python=3.8 matplotlib=3.5.1 numpy=1.21.6 \
 scipy=1.10.1 pandas=1.4.2 scikit-learn=1.0.2 shap=0.39.0 \
 eli5=0.13.0 seaborn=0.11.2 jupyterlab numba=0.53
