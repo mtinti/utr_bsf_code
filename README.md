@@ -36,6 +36,7 @@ negative fragments, from peak finding to creating the paper table (Paper_Table_G
 - <a href="circ0s_code/">circos_code</a> <br>
 This section contains the configuration files and data files to use with Circos.  <br>
 circos -conf fig_sense.conf to reproduce the paper figure.
+circos | v 0.69-8 | 15 Jun 2019 | Perl 5.032001
 
 - <a href="make_images_code/">make_images_code</a> <br>
 This section contains the configuration files to plot coverage tracks with pyGenomeTracks. <br>
