@@ -33,7 +33,7 @@ I suggest cloning the repo and visualising it on your machine. <br><br>
 The notebook <b>g_sample_analysis.ipynb</b> shows the step used for the analysis of the <br>
 negative fragments, from peak finding to creating the paper table (Paper_Table_Ganciclovir.csv). <br>
 
-- <a href="circus_code/">circus_code</a> <br>
+- <a href="circ0s_code/">circos_code</a> <br>
 This section contains the configuration files and data files to use with Circos.  <br>
 circos -conf fig_sense.conf to reproduce the paper figure.
 
